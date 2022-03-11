@@ -1,0 +1,4 @@
+com/my/test/java/task/first/FibonacciTest.java
+ com.my.test.java.task.first.FibonacciTest
+com/my/test/java/task/second/CalculationsTest.java
+ com.my.test.java.task.second.CalculationsTest
