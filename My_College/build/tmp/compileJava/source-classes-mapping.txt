@@ -1,65 +1,80 @@
-com/my/exercises/projects/PlayCube.java
- com.my.exercises.projects.PlayCube
+com/my/task/exercises/projects/PlayCube.java
+ com.my.task.exercises.projects.PlayCube
+com/my/task/exercises/ThreeSet.java
+ com.my.task.exercises.ThreeSet
 com/my/test/java/task/second/Student.java
  com.my.test.java.task.second.Student
-com/my/task/horus/Wall.java
- com.my.task.horus.Wall
- com.my.task.horus.Wall$1
- com.my.task.horus.Wall$2
- com.my.task.horus.Wall$3
 com/my/task/horus/Main.java
  com.my.task.horus.Main
 com/my/test/java/task/first/Fibonacci.java
  com.my.test.java.task.first.Fibonacci
-com/my/exercises/maths/ASCII.java
- com.my.exercises.maths.ASCII
+com/my/task/exercises/maths/Example.java
+ com.my.task.exercises.maths.Example
 com/my/task/envelo/second/second/User.java
  com.my.task.envelo.second.second.User
-com/my/exercises/maths/Task5.java
- com.my.exercises.maths.Task5
 com/my/test/java/task/third/MaxSum.java
  com.my.test.java.task.third.MaxSum
-com/my/exercises/Calendar.java
- com.my.exercises.Calendar
 com/my/task/others/first/HeapSort.java
  com.my.task.others.first.HeapSort
-com/my/exercises/InnerClassTest.java
- com.my.exercises.InnerClassTest
- com.my.exercises.TakingClock
- com.my.exercises.TakingClock$TimePrinter
+com/my/task/Test.java
+ com.my.task.Test
+com/my/task/FinallyException.java
+ com.my.task.FinallyException
 com/my/test/java/task/third/MaximumSum.java
  com.my.test.java.task.third.MaximumSum
+com/my/task/CatchException.java
+ com.my.task.CatchException
 com/my/task/horus/CompositeBlock.java
  com.my.task.horus.CompositeBlock
-com/my/exercises/StackTrace.java
- com.my.exercises.StackTrace
-com/my/exercises/maths/AddingNumbers.java
- com.my.exercises.maths.AddingNumbers
+com/my/task/exercises/Calendar.java
+ com.my.task.exercises.Calendar
+com/my/task/first/FibonacciTest.java
+ com.my.task.first.FibonacciTest
+com/my/task/exercises/StackTrace.java
+ com.my.task.exercises.StackTrace
 com/my/test/java/task/second/Calculations.java
  com.my.test.java.task.second.Calculations
 com/my/task/horus/Block.java
  com.my.task.horus.Block
 com/my/task/envelo/second/second/PinCreator.java
  com.my.task.envelo.second.second.PinCreator
-com/my/exercises/maths/Task4.java
- com.my.exercises.maths.Task4
-com/my/exercises/projects/Rooms.java
- com.my.exercises.projects.Rooms
-com/my/task/envelo/second/first/Example.java
- com.my.task.envelo.second.first.Example
-com/my/test/java/task/fourth/Hobbies.java
- com.my.test.java.task.fourth.Hobbies
-com/my/task/horus/Structure.java
- com.my.task.horus.Structure
-com/my/exercises/ReverseWords.java
- com.my.exercises.ReverseWords
-com/my/exercises/maths/NumberTable.java
- com.my.exercises.maths.NumberTable
-com/my/test/java/task/second/Grades.java
- com.my.test.java.task.second.Grades
-com/my/exercises/ThreeSet.java
- com.my.exercises.ThreeSet
-com/my/exercises/maths/Example.java
- com.my.exercises.maths.Example
 com/my/task/others/second/GFG.java
  com.my.task.others.second.GFG
+com/my/task/TryException.java
+ com.my.task.TryException
+com/my/task/envelo/second/first/Example.java
+ com.my.task.envelo.second.first.Example
+com/my/task/exercises/maths/NumberTable.java
+ com.my.task.exercises.maths.NumberTable
+com/my/test/java/task/fourth/Hobbies.java
+ com.my.test.java.task.fourth.Hobbies
+com/my/task/exercises/maths/Task4.java
+ com.my.task.exercises.maths.Task4
+com/my/task/syncron/TaskOne.java
+ com.my.task.syncron.Solution
+ com.my.task.syncron.TaskOne
+com/my/task/horus/Structure.java
+ com.my.task.horus.Structure
+com/my/task/exercises/InnerClassTest.java
+ com.my.task.exercises.InnerClassTest
+ com.my.task.exercises.TakingClock
+ com.my.task.exercises.TakingClock$TimePrinter
+com/my/task/exercises/maths/ASCII.java
+ com.my.task.exercises.maths.ASCII
+com/my/test/java/task/second/Grades.java
+ com.my.test.java.task.second.Grades
+com/my/task/exercises/projects/Rooms.java
+ com.my.task.exercises.projects.Rooms
+com/my/task/second/CalculationsTest.java
+ com.my.task.second.CalculationsTest
+com/my/task/exercises/maths/Task5.java
+ com.my.task.exercises.maths.Task5
+com/my/task/exercises/maths/AddingNumbers.java
+ com.my.task.exercises.maths.AddingNumbers
+com/my/task/exercises/ReverseWords.java
+ com.my.task.exercises.ReverseWords
+com/my/task/horus/Wall.java
+ com.my.task.horus.Wall
+ com.my.task.horus.Wall$1
+ com.my.task.horus.Wall$2
+ com.my.task.horus.Wall$3
