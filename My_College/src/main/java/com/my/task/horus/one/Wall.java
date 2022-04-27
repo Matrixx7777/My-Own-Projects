@@ -1,4 +1,8 @@
-package com.my.task.horus;
+package com.my.task.horus.one;
+
+import com.my.task.horus.one.Block;
+import com.my.task.horus.one.CompositeBlock;
+import com.my.task.horus.one.Structure;
 
 import java.util.List;
 import java.util.Optional;

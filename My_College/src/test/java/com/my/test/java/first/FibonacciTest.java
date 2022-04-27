@@ -1,4 +1,4 @@
-package com.my.task.first;
+package com.my.test.java.first;
 
 import com.my.test.java.task.first.Fibonacci;
 import org.testng.Assert;

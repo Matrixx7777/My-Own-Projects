@@ -1,4 +1,4 @@
-package com.my.task.second;
+package com.my.test.java.second;
 
 import com.my.test.java.task.second.Calculations;
 import com.my.test.java.task.second.Grades;
